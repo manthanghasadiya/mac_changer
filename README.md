@@ -7,6 +7,8 @@ It's really easy to use and you can change you MAC Address much easier than befo
 
 Open terminal where you downloaded this tool and type:
 
+
   >**python mac_changer.py --interface wlan? --mac xx:xx:xx:xx:xx:xx**
 
-You can check --help for more details.
+
+Check *python mac_changer.py* --help for more details.

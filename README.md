@@ -1,4 +1,4 @@
-# macchanger
+# MAC address changer
 This is a MAC address changer tool.(for Linux) 
 
 It's really easy to use and you can change you MAC Address much easier than before with this tool.

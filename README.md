@@ -11,4 +11,4 @@ Open terminal where you downloaded this tool and type:
   >**python mac_changer.py --interface wlan? --mac xx:xx:xx:xx:xx:xx**
 
 
-Check *python mac_changer.py* --help for more details.
+Check **_python mac_changer.py --help_** for more details.
